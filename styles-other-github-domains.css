@@ -1,0 +1,22 @@
+body {
+	background: #223140 !important;
+	color: #f8f9fa !important;
+}
+
+
+.footer {
+	background-color: #2f4459 !important;
+}
+
+.lead {
+	color: #c9c9c9!important;
+}
+
+.token-did-copy {
+background :#1565c0!important;
+}
+
+.failed{
+	border: thin solid #1864ab!important;
+	border-radius: 3px !important;
+}
